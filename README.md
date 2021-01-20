@@ -10,6 +10,3 @@ I am pursuing Masters in Information Systems at Northeastern University,Boston.
 <img src="https://github.com/Jagman13/Jagman13.github.io/blob/master/images/sql.png" height="45" />&nbsp;&nbsp;
 
 
-
-![Anjali Sajeevan Github Stats](https://github-readme-stats.vercel.app/api?username=AnjaliSajeevan&count_private=true&show_icons=true)&nbsp;&nbsp;&nbsp;![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AnjaliSajeevan&hide=jupyternotebook&layout=compact)
-
