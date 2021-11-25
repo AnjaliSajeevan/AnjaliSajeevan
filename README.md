@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am pursuing Masters in Information Systems at Northeastern University,Boston. 
+I am Anjali, currently pursuing Masters in Information Systems at Northeastern University,Boston. 
 
 
 ### Languages and Tools
